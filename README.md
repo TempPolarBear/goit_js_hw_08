@@ -4,9 +4,9 @@ GoIT JavaScript course homework.
 
 ## Topics
 
-- Делегирование событий
-- Интерактивная галерея изображений
-- Открытие полноразмерного изображения по клику
+- Event delegation
+- Interactive image gallery
+- Opening a full-size image on click
 
 ## Technologies
 
